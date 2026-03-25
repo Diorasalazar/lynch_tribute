@@ -163,22 +163,9 @@ body {
         -0.55px 0.55px 0 var(--primary-red);
 }
 
-.brand-birthday {
-    font-size: 1.25em;
-}
-
-.brand-line {
-    display: block;
-    line-height: 1.15;
-}
-
 @media (max-width: 767px) {
     .brand-title {
         font-size: clamp(1rem, 2.8vw, 1.4rem);
-    }
-
-    .brand-birthday {
-        font-size: 1em;
     }
 }
 
