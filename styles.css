@@ -167,6 +167,10 @@ body {
     .brand-title {
         font-size: clamp(1rem, 2.8vw, 1.4rem);
     }
+
+    .title-tail {
+        white-space: nowrap;
+    }
 }
 
 @media (min-width: 768px) {
